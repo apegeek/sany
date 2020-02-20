@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.apegeek.com:8084/package/Trucklink.ipa</string>
+					<string>http://hqclw.irootech.com:9999/package/Trucklink.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.apegeek.com:8084/package/icon-57.png</string>
+					<string>http://hqclw.irootech.com:9999/package/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.apegeek.com:8084/package/icon-512.png</string>
+					<string>http://hqclw.irootech.com:9999/package/icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
